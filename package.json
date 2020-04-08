@@ -1,0 +1,22 @@
+{
+  "name": "weeks_left",
+  "version": "1.0.0",
+  "description": "Provides the # of weeks left",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karnHarsh/weeks_left.git"
+  },
+  "author": "Harsh Karn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karnHarsh/weeks_left/issues"
+  },
+  "homepage": "https://github.com/karnHarsh/weeks_left#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
